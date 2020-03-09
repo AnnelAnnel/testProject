@@ -139,5 +139,7 @@
                 $('#productPrice').html(finalPrice);
             });
         });
+
+        
     </script>
 @endpush
